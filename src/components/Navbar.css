@@ -1,0 +1,16 @@
+.nav-list-item:hover{
+  color: gray;
+}
+.kuch-karo{
+    animation: slideKaro 0.8s ease-in;
+}
+
+@keyframes slideKaro {
+    0%{
+        transform: translateY(-100%);
+    }
+
+    100%{
+        transform: translateY(0);
+    }
+}
