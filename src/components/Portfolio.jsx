@@ -4,46 +4,47 @@ import propertyWale from "../assets/portfolio/propertywale.png";
 import cryptoImage from "../assets/portfolio/crypto.png";
 import googleImage from "../assets/portfolio/google.png";
 import chaiwala from "../assets/portfolio/chaiwala.png";
-import reactWeather from "../assets/portfolio/reactWeather.jpg";
+import intirious from "../assets/portfolio/intirious.png";
 
 const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
+      src: intirious,
+      demoLink:"https://intirious.onrender.com/",
+      codeLink:"https://github.com/zamanabdi/final-intirious-ecomm.git",
+    },
+    {
+      id: 2,
       src: movix,
       demoLink:"https://zamanali-movix-app.netlify.app/",
       codeLink:"https://github.com/zamanabdi/Movie-app",
     },
     {
-      id: 2,
+      id: 3,
       src: propertyWale,
       demoLink:"https://propertywale.vercel.app/",
       codeLink:"https://github.com/zamanabdi/propertywale",
     },
     {
-      id: 3,
+      id: 4,
       src: cryptoImage,
       demoLink:"https://zamanali-crypto-app.netlify.app/",
       codeLink:"https://github.com/zamanabdi/crypto-app",
     },
     {
-      id: 4,
+      id: 5,
       src: googleImage,
       demoLink:"https://zamanali-google-search-clone.netlify.app/",
       codeLink:"https://github.com/zamanabdi/google-search-clone",
     },
     {
-      id: 5,
+      id: 6,
       src: chaiwala,
       demoLink:"https://zamanali-mbachaiwala.netlify.app/",
       codeLink:"https://github.com/zamanabdi/google-search-clone",
     },
-    {
-      id: 6,
-      src: reactWeather,
-      demoLink:"https://zamanali-movix-app.netlify.app/",
-      codeLink:"https://github.com/zamanabdi/google-search-clone",
-    },
+   
     
     
     
@@ -53,7 +54,7 @@ const Portfolio = () => {
     <div
       id="portfolio"
       name="portfolio"
-      className="bg-gradient-to-b from-black to-gray-800 w-full text-white md:h-screen"
+      className="bg-gradient-to-b from-black to-gray-800 w-full text-white md:h-full"
     >
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
         <div className="pb-8">
