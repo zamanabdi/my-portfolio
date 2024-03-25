@@ -5,6 +5,9 @@ import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
+import node from "../assets/node.png";
+import nextjs from "../assets/nextjs.png";
+import graphql from "../assets/graphql.png";
 
 const Experience = () => {
   const techs = [
@@ -23,13 +26,13 @@ const Experience = () => {
     {
       id: 3,
       src: javascript,
-      title: "Javascript",
+      title: "Javascript (ES6)",
       style: "shadow-yellow-500",
     },
     {
       id: 4,
       src: reactImage,
-      title: "React Js",
+      title: "React Js 18",
       style: "shadow-blue-600",
     },
     {
@@ -44,12 +47,30 @@ const Experience = () => {
       title: "GitHub",
       style: "shadow-gray-400",
     },
+    {
+      id: 7,
+      src: node,
+      title: "Node.js",
+      style: "shadow-green-400",
+    },
+    {
+      id: 8,
+      src: nextjs,
+      title: "Next.js 14",
+      style: "shadow-gray-400",
+    },
+    {
+      id: 9,
+      src: graphql,
+      title: "GraphQL",
+      style: "shadow-pink-400",
+    },
   ];
 
   return (
     <div
       name="experience"
-      className="bg-gradient-to-b from-gray-800 to-black w-full h-screen"
+      className="bg-gradient-to-b from-gray-800 to-black w-full h-full"
     >
       <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white">
         <div>
