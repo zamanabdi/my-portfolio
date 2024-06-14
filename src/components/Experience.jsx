@@ -53,18 +53,8 @@ const Experience = () => {
       title: "Node.js",
       style: "shadow-green-400",
     },
-    {
-      id: 8,
-      src: nextjs,
-      title: "Next.js 14",
-      style: "shadow-gray-400",
-    },
-    {
-      id: 9,
-      src: graphql,
-      title: "GraphQL",
-      style: "shadow-pink-400",
-    },
+    
+    
   ];
 
   return (
