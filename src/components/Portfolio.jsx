@@ -5,6 +5,7 @@ import cryptoImage from "../assets/portfolio/crypto.png";
 import googleImage from "../assets/portfolio/google.png";
 import chaiwala from "../assets/portfolio/chaiwala.png";
 import intirious from "../assets/portfolio/intirious.png";
+import weather   from "../assets/portfolio/weather.png";
 
 const Portfolio = () => {
   const portfolios = [
@@ -40,9 +41,9 @@ const Portfolio = () => {
     },
     {
       id: 6,
-      src: chaiwala,
-      demoLink:"https://zamanali-mbachaiwala.netlify.app/",
-      codeLink:"https://github.com/zamanabdi/google-search-clone",
+      src: weather,
+      demoLink:"https://weather-app-phi-amber-60.vercel.app/",
+      codeLink:"https://github.com/zamanabdi/weather-app",
     },
    
     
