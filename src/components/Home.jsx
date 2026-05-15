@@ -1,5 +1,5 @@
 import React from "react";
-import HeroImage from "../assets/heroImage2.jpg";
+import HeroImage from "../assets/heroImage2.png";
 import { HiOutlineArrowRight } from "react-icons/hi";
 import "./Home.css";
 import SocialLinks from "./SocialLinks";
@@ -27,11 +27,14 @@ const Home = () => {
             style={{ color: "white" }}
             className="flex flex-col justify-center h-full mt-[50px] md:mt-0"
           >
-            <h2 className="text-4xl sm:text-7xl font-bold">
-              I'm a Front End Developer
+            <h2 className="text-4xl sm:text-7xl font-bold" style={{marginRight: '15px;'}}>
+              I’m a PHP Full Stack Developer
             </h2>
             <p className="py-4 max-w-md">
-              I have good experience of developing fully responsive Web applications using the latest technologies like HTML5, CSS3, SCSS, Javascript(ES6), React.Js 18 , Tailwind CSS, Firebase V9 etc.
+              with hands-on experience in building secure, scalable, and fully responsive web applications using modern technologies like PHP, Laravel, MySQL, HTML5, CSS3, SCSS, JavaScript (ES6), React.js 18, Tailwind CSS, jQuery, AJAX, Bootstrap, and Firebase V9.
+
+              <br></br><br></br>
+              I specialize in developing dynamic full-stack applications with clean UI/UX, REST APIs, authentication systems, database management, and responsive frontend interfaces. I also have experience working with Git/GitHub, MVC architecture, OOP concepts, and integrating modern frontend technologies with backend systems to build real-world web applications.
             </p>
 
             <div>

@@ -2,7 +2,7 @@ import React from "react";
 import movix from "../assets/portfolio/movix.png";
 import propertyWale from "../assets/portfolio/propertywale.png";
 import cryptoImage from "../assets/portfolio/crypto.png";
-import googleImage from "../assets/portfolio/google.png";
+import googleImage from "../assets/portfolio/laravel.png";
 import chaiwala from "../assets/portfolio/chaiwala.png";
 import intirious from "../assets/portfolio/intirious.png";
 import weather   from "../assets/portfolio/weather.png";
@@ -36,8 +36,8 @@ const Portfolio = () => {
     {
       id: 5,
       src: googleImage,
-      demoLink:"https://zamanali-google-search-clone.netlify.app/",
-      codeLink:"https://github.com/zamanabdi/google-search-clone",
+      demoLink:"https://github.com/zamanabdi/laravel-ecomm.git",
+      codeLink:"https://github.com/zamanabdi/laravel-ecomm.git",
     },
     {
       id: 6,

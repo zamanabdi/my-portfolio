@@ -8,6 +8,11 @@ import tailwind from "../assets/tailwind.png";
 import node from "../assets/node.png";
 import nextjs from "../assets/nextjs.png";
 import graphql from "../assets/graphql.png";
+import laravel from "../assets/laravel.png";
+import php from "../assets/php.png";
+import mysql from "../assets/mysql.png";
+import mongodb from "../assets/mongodb.png";
+import expressjs from "../assets/expressjs.png";
 
 const Experience = () => {
   const techs = [
@@ -53,6 +58,38 @@ const Experience = () => {
       title: "Node.js",
       style: "shadow-green-400",
     },
+    {id: 8,
+      src: mongodb,
+      title: "MongoDB",
+      style: "shadow-green-400",
+
+    },
+    {
+      id: 9,
+      src: expressjs,
+      title: "Express JS",
+      style: "shadow-yellow-400",
+
+    },
+    {
+      id: 10,
+      src: laravel,
+      title: "Laravel 12",
+      style: "shadow-red-400",
+    },
+    {
+      id: 11,
+      src: php,
+      title: "PHP",
+      style: "shadow-blue-400",
+
+    },
+    {
+      id: 12,
+      src: mysql,
+      title: "MySQL",
+      style: "shadow-orange-400",
+    }
     
     
   ];

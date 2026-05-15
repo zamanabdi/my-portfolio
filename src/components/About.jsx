@@ -24,16 +24,21 @@ const About = () => {
           SASS , JAVASCRIPT (ES6), Firebase V9, strapi headless cms and React.js
           18 etc.*/}
 
-          Passionate about crafting engaging user experiences and bringing designs to life through code, I am a skilled frontend developer with a keen eye for detail and a commitment to excellence. With a solid foundation in HTML, CSS, and JavaScript, coupled with expertise in modern frontend framework like React, I thrive in turning complex ideas into intuitive and visually appealing interfaces.
+          I am a Civil Engineering graduate from Maharshi Dayanand University (2017) who transitioned into software development driven by a strong passion for coding and problem-solving. I began my professional career as a Civil Site Engineer at Dragon Age Realtors Pvt. Ltd., Lucknow, while simultaneously upskilling myself in web development.
            
           <br/>
           <br/>
 
-          Driven by a creative flair and a dedication to staying updated with the latest trends and technologies in web development,I excel in collaborating with designers and backend developers to deliver seamless and responsive web applications. Whether it's optimizing performance, ensuring cross-browser compatibility, or enhancing accessibility, I am adept at tackling challenges and finding elegant solutions to elevate the user experience.
+          To strengthen my technical foundation, I completed a Frontend Development program from Relevel by Unacademy, where I built multiple industry-level projects using HTML5, CSS3, SASS, JavaScript (ES6), React.js, and modern UI practices. This hands-on experience helped me develop a strong understanding of responsive design, component-based architecture, and clean UI/UX principles.
           <br/>
           <br/>
-          With a portfolio showcasing a diverse range of projects, from sleek single-page applications to dynamic e-commerce platform, I demonstrate a passion for innovation and a commitment to delivering high-quality frontend solutions that resonate with users. Ready to tackle new challenges and contribute to the ever-evolving landscape of web development, I am dedicated in pushing boundaries and creating immersive digital experiences that leave a lasting impression.
+          Recently, I have been selected as a Software Engineer at ThreeColts India Pvt. Ltd., where I am working with a broader full-stack ecosystem including PHP, MySQL, JavaScript, HTML, CSS, Bootstrap, WordPress, and Laravel. My current focus is on building scalable, secure, and performance-optimized web applications while following best development practices.
           
+          <br/>
+          <br/>
+
+          I am a highly motivated developer who enjoys continuous learning and building real-world solutions. I am keen to grow as a Frontend / Full-Stack / PHP–Laravel Developer and contribute effectively to impactful projects.
+
           
         </p>
 
