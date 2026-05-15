@@ -3,7 +3,6 @@ import movix from "../assets/portfolio/movix.png";
 import propertyWale from "../assets/portfolio/propertywale.png";
 import cryptoImage from "../assets/portfolio/crypto.png";
 import googleImage from "../assets/portfolio/laravel.png";
-import chaiwala from "../assets/portfolio/chaiwala.png";
 import intirious from "../assets/portfolio/intirious.png";
 import weather   from "../assets/portfolio/weather.png";
 

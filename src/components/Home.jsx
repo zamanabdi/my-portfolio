@@ -3,8 +3,6 @@ import HeroImage from "../assets/heroImage2.png";
 import { HiOutlineArrowRight } from "react-icons/hi";
 import "./Home.css";
 import SocialLinks from "./SocialLinks";
-import {Link} from "react-scroll";
-import About from "./About";
 
 const Home = () => {
   return (

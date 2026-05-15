@@ -49,7 +49,7 @@ const SocialLinks = () => {
           const {id,child,href,style,download} = item;
 
           return(
-            <li key={id} className={"flex justify-between items-center w-40 h-14 px-4 ml-[-100px] bg-gray-500 hover:rounded-md duration-300 hover:ml-[-10px]" + " " + style}>
+            <li key={id} className={`flex justify-between items-center w-40 h-14 px-4 ml-[-100px] bg-gray-500 hover:rounded-md duration-300 hover:ml-[-10px] ${style}`}>
 
 
           <a href={href} className="flex justify-between items-center w-full text-white" target="blank" download={download} rel="noreferrer">

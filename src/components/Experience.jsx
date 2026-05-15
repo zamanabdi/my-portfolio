@@ -6,8 +6,6 @@ import reactImage from "../assets/react.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
 import node from "../assets/node.png";
-import nextjs from "../assets/nextjs.png";
-import graphql from "../assets/graphql.png";
 import laravel from "../assets/laravel.png";
 import php from "../assets/php.png";
 import mysql from "../assets/mysql.png";
